@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fe91f5209b2f488f8ec96b032b5e96f8" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="FinalModel.Cart" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FinalModel.CartLine" Width="1.5" PointX="5.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FinalModel.Customer" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FinalModel.Order" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FinalModel.OrderLine" Width="1.5" PointX="6.875" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FinalModel.Product" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="FinalModel.ProductCategory" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FinalModel.ProductVariant" Width="1.5" PointX="3.125" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FinalModel.TopProduct" Width="1.5" PointX="5.75" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="FinalModel.FK_CartLine_CartId" ManuallyRouted="false" />
+        <AssociationConnector Association="FinalModel.FK_CartLine_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="FinalModel.FK_Order_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="FinalModel.FK_OrderLine_OrderId" ManuallyRouted="false" />
+        <AssociationConnector Association="FinalModel.FK_OrderLine_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="FinalModel.FK_Product_CategoryId" ManuallyRouted="false" />
+        <AssociationConnector Association="FinalModel.FK_ProductVariant_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="FinalModel.FK_TopProducts_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="FinalModel.FK_TopProducts_ProductCategoryId" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

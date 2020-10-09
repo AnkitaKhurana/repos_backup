@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+
+        <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("Details", "User")'">Get User details</button>
+        <br />
+        <br />
+        <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("Details", "Movie")'">Get Movie details</button>
+        <br />
+        <br />
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>

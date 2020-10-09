@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MSA_webapp1.Models.UserModel>
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>User details</h1>
+
+<button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("Index", "Home")'">Back</button>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.firstname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lastname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.contact)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.firstname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lastname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contact)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

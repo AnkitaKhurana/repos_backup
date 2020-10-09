@@ -1,0 +1,25 @@
+﻿@model Shopping.Presentation.ViewModels.Cart
+
+@{
+                /**/
+
+                ViewBag.Title = "Cart";
+}
+
+<h2>My Cart</h2>
+@using (Html.BeginForm())
+{
+
+    <div class="form-horizontal">
+        @Html.EditorFor(x => x.items)
+    </div>
+    <div>
+        <input type="button" value="Confirm Order" onclick="location.href='@Url.Action("Confirm", "Order")'" />
+    </div>
+}
+<br><br><br><br><br>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

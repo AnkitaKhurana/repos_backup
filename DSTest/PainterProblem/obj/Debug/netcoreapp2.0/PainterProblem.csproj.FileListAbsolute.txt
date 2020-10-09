@@ -1,0 +1,11 @@
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\bin\Debug\netcoreapp2.0\PainterProblem.deps.json
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\bin\Debug\netcoreapp2.0\PainterProblem.runtimeconfig.json
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\bin\Debug\netcoreapp2.0\PainterProblem.runtimeconfig.dev.json
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\bin\Debug\netcoreapp2.0\PainterProblem.dll
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\bin\Debug\netcoreapp2.0\PainterProblem.pdb
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\obj\Debug\netcoreapp2.0\PainterProblem.csprojAssemblyReference.cache
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\obj\Debug\netcoreapp2.0\PainterProblem.csproj.CoreCompileInputs.cache
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\obj\Debug\netcoreapp2.0\PainterProblem.AssemblyInfoInputs.cache
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\obj\Debug\netcoreapp2.0\PainterProblem.AssemblyInfo.cs
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\obj\Debug\netcoreapp2.0\PainterProblem.dll
+c:\Users\ankitakhurana\source\repos\DSTest\PainterProblem\obj\Debug\netcoreapp2.0\PainterProblem.pdb

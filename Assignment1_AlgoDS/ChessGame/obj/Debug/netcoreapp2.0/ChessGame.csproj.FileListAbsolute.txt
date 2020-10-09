@@ -1,0 +1,11 @@
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\bin\Debug\netcoreapp2.0\ChessGame.deps.json
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\bin\Debug\netcoreapp2.0\ChessGame.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\bin\Debug\netcoreapp2.0\ChessGame.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\bin\Debug\netcoreapp2.0\ChessGame.dll
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\bin\Debug\netcoreapp2.0\ChessGame.pdb
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\obj\Debug\netcoreapp2.0\ChessGame.csprojAssemblyReference.cache
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\obj\Debug\netcoreapp2.0\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\obj\Debug\netcoreapp2.0\ChessGame.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\obj\Debug\netcoreapp2.0\ChessGame.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\obj\Debug\netcoreapp2.0\ChessGame.dll
+C:\Users\ankitakhurana\source\repos\Assignment1_AlgoDS\ChessGame\obj\Debug\netcoreapp2.0\ChessGame.pdb

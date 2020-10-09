@@ -1,0 +1,4 @@
+D:\repos\NAGP_MicroService_2\MSA-webapp1\obj\Debug\netcoreapp2.2\MSA-webapp1.csproj.CoreCompileInputs.cache
+D:\repos\NAGP_MicroService_2\MSA-webapp1\obj\Debug\netcoreapp2.2\MSA-webapp1.AssemblyInfoInputs.cache
+D:\repos\NAGP_MicroService_2\MSA-webapp1\obj\Debug\netcoreapp2.2\MSA-webapp1.AssemblyInfo.cs
+D:\repos\NAGP_MicroService_2\MSA-webapp1\obj\Debug\netcoreapp2.2\MSA-webapp1.csprojAssemblyReference.cache

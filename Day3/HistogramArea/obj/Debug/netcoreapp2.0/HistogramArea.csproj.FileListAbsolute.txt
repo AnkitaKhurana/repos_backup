@@ -1,0 +1,11 @@
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\obj\Debug\netcoreapp2.0\HistogramArea.csprojAssemblyReference.cache
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\obj\Debug\netcoreapp2.0\HistogramArea.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\obj\Debug\netcoreapp2.0\HistogramArea.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\obj\Debug\netcoreapp2.0\HistogramArea.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\bin\Debug\netcoreapp2.0\HistogramArea.deps.json
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\bin\Debug\netcoreapp2.0\HistogramArea.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\bin\Debug\netcoreapp2.0\HistogramArea.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\bin\Debug\netcoreapp2.0\HistogramArea.dll
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\bin\Debug\netcoreapp2.0\HistogramArea.pdb
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\obj\Debug\netcoreapp2.0\HistogramArea.dll
+C:\Users\ankitakhurana\source\repos\Day3\HistogramArea\obj\Debug\netcoreapp2.0\HistogramArea.pdb

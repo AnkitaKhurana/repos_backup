@@ -1,0 +1,89 @@
+﻿@model IEnumerable<MSA_webapp1.Models.MovieModel>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Movie Details</h1>
+
+<button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("Index", "Home")'">Back</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rated)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Released)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Runtime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Director)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Actors)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Plot)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Language)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rated)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Released)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Runtime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Director)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Actors)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Plot)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Language)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

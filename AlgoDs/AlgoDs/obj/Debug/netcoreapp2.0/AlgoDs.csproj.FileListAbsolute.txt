@@ -1,0 +1,11 @@
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\obj\Debug\netcoreapp2.0\AlgoDs.csprojAssemblyReference.cache
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\obj\Debug\netcoreapp2.0\AlgoDs.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\obj\Debug\netcoreapp2.0\AlgoDs.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\obj\Debug\netcoreapp2.0\AlgoDs.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\bin\Debug\netcoreapp2.0\AlgoDs.deps.json
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\bin\Debug\netcoreapp2.0\AlgoDs.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\bin\Debug\netcoreapp2.0\AlgoDs.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\bin\Debug\netcoreapp2.0\AlgoDs.dll
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\bin\Debug\netcoreapp2.0\AlgoDs.pdb
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\obj\Debug\netcoreapp2.0\AlgoDs.dll
+C:\Users\ankitakhurana\source\repos\AlgoDs\AlgoDs\obj\Debug\netcoreapp2.0\AlgoDs.pdb

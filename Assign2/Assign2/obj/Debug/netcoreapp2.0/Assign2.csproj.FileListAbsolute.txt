@@ -1,0 +1,11 @@
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.deps.json
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.dll
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\bin\Debug\netcoreapp2.0\Assign2.pdb
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.csprojAssemblyReference.cache
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.dll
+C:\Users\ankitakhurana\source\repos\Assign2\Assign2\obj\Debug\netcoreapp2.0\Assign2.pdb

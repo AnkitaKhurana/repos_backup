@@ -1,0 +1,61 @@
+﻿@model Shopping.Shared.DTOs.ProductDTO
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ProductDTO</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+
+        <img src="@Model.ImageURL" width="200px" height="200px" />
+        <br>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <select>
+
+            @for (int i = 0; i < Model.Variants.Count(); i++)
+            {
+
+                
+                <option value="  @Model.Variants[i]">  @Model.Variants[i]</option>
+               
+
+            }
+
+        </select>
+
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Add To Cart", "AddToCart", "Cart", new { product = Model.Id }, null);
+
+    @Html.ActionLink("Back to Products List", "Index")
+</p>

@@ -1,0 +1,11 @@
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\bin\Debug\netcoreapp2.0\Assign3.deps.json
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\bin\Debug\netcoreapp2.0\Assign3.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\bin\Debug\netcoreapp2.0\Assign3.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\bin\Debug\netcoreapp2.0\Assign3.dll
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\bin\Debug\netcoreapp2.0\Assign3.pdb
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\obj\Debug\netcoreapp2.0\Assign3.csprojAssemblyReference.cache
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\obj\Debug\netcoreapp2.0\Assign3.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\obj\Debug\netcoreapp2.0\Assign3.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\obj\Debug\netcoreapp2.0\Assign3.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\obj\Debug\netcoreapp2.0\Assign3.dll
+C:\Users\ankitakhurana\source\repos\Assign3\Assign3\obj\Debug\netcoreapp2.0\Assign3.pdb

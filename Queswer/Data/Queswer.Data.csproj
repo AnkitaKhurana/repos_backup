@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{63BA86B0-B6D2-4FF4-A42D-CC7BB0796359}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Data</RootNamespace>
+    <AssemblyName>Data</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Migrations\201810261709176_InitialCreate.cs" />
+    <Compile Include="Migrations\201810261709176_InitialCreate.Designer.cs">
+      <DependentUpon>201810261709176_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810280656582_QuestionImage.cs" />
+    <Compile Include="Migrations\201810280656582_QuestionImage.Designer.cs">
+      <DependentUpon>201810280656582_QuestionImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810281152590_QuesAnswerList.cs" />
+    <Compile Include="Migrations\201810281152590_QuesAnswerList.Designer.cs">
+      <DependentUpon>201810281152590_QuesAnswerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810281304467_Icollection.cs" />
+    <Compile Include="Migrations\201810281304467_Icollection.Designer.cs">
+      <DependentUpon>201810281304467_Icollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810281312225_DeleteIcollectionInitialisation.cs" />
+    <Compile Include="Migrations\201810281312225_DeleteIcollectionInitialisation.Designer.cs">
+      <DependentUpon>201810281312225_DeleteIcollectionInitialisation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810290454503_AddDateColumnstoTables.cs" />
+    <Compile Include="Migrations\201810290454503_AddDateColumnstoTables.Designer.cs">
+      <DependentUpon>201810290454503_AddDateColumnstoTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201810290918227_UniqueTag.cs" />
+    <Compile Include="Migrations\201810290918227_UniqueTag.Designer.cs">
+      <DependentUpon>201810290918227_UniqueTag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Answer.cs" />
+    <Compile Include="Models\Follow.cs" />
+    <Compile Include="Models\Question.cs" />
+    <Compile Include="Models\QueswerContext.cs" />
+    <Compile Include="Models\Tag.cs" />
+    <Compile Include="Models\UniqueAttribute.cs" />
+    <Compile Include="Models\Vote.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Database\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201810261709176_InitialCreate.resx">
+      <DependentUpon>201810261709176_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810280656582_QuestionImage.resx">
+      <DependentUpon>201810280656582_QuestionImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810281152590_QuesAnswerList.resx">
+      <DependentUpon>201810281152590_QuesAnswerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810281304467_Icollection.resx">
+      <DependentUpon>201810281304467_Icollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810281312225_DeleteIcollectionInitialisation.resx">
+      <DependentUpon>201810281312225_DeleteIcollectionInitialisation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810290454503_AddDateColumnstoTables.resx">
+      <DependentUpon>201810290454503_AddDateColumnstoTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810290918227_UniqueTag.resx">
+      <DependentUpon>201810290918227_UniqueTag.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

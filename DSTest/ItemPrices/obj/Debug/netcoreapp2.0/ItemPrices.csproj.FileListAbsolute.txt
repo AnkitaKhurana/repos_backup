@@ -1,0 +1,11 @@
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\obj\Debug\netcoreapp2.0\ItemPrices.csproj.CoreCompileInputs.cache
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\obj\Debug\netcoreapp2.0\ItemPrices.AssemblyInfoInputs.cache
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\obj\Debug\netcoreapp2.0\ItemPrices.AssemblyInfo.cs
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\bin\Debug\netcoreapp2.0\ItemPrices.deps.json
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\bin\Debug\netcoreapp2.0\ItemPrices.runtimeconfig.json
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\bin\Debug\netcoreapp2.0\ItemPrices.runtimeconfig.dev.json
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\bin\Debug\netcoreapp2.0\ItemPrices.dll
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\bin\Debug\netcoreapp2.0\ItemPrices.pdb
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\obj\Debug\netcoreapp2.0\ItemPrices.dll
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\obj\Debug\netcoreapp2.0\ItemPrices.pdb
+c:\Users\ankitakhurana\source\repos\DSTest\ItemPrices\obj\Debug\netcoreapp2.0\ItemPrices.csprojAssemblyReference.cache

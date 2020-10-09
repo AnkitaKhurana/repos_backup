@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <dt>
+
+        @Session["UserName"].ToString()
+    </dt>
+    <dl>
+
+        @Session["Email"].ToString()
+    </dl>
+
+    <dl>
+        @Session["Address1"].ToString()
+    </dl>
+
+</div>
+

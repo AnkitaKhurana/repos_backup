@@ -1,0 +1,65 @@
+﻿@model Shopping.Shared.DTOs.AllOrdersDTO
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    .box {
+        background-color: seashell;
+        margin: 5px;
+    }
+
+</style>
+<h2>Index</h2>
+
+<div>
+    <h4>OrderDTO</h4>
+    <hr />
+    @foreach (var order in Model.Orders)
+    {
+
+        <div class="box">
+        <dl class="dl-horizontal">
+
+            <dt>
+                Order Status:
+            </dt>
+            <dd>
+                @order.OrderStatus;
+            </dd>
+            <dt>
+                Amount:
+            </dt>
+
+            <dd>
+                @order.TotalAmount;
+            </dd>
+            
+            @for (int i = 0; i < order.orders.Count; i++)
+            {
+                <dt>
+                    Product Name:
+                </dt>
+
+                <dd>
+                    @order.orders[i].ProductName
+                </dd>
+                <dt>
+                    Quanity:
+                </dt>
+
+                <dd>
+                    @order.orders[i].Quantity
+                </dd>
+
+            }
+           
+
+        </dl>
+            </div>
+    }
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,11 @@
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\bin\Debug\netcoreapp2.0\Graph.deps.json
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\bin\Debug\netcoreapp2.0\Graph.runtimeconfig.json
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\bin\Debug\netcoreapp2.0\Graph.runtimeconfig.dev.json
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\bin\Debug\netcoreapp2.0\Graph.dll
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\bin\Debug\netcoreapp2.0\Graph.pdb
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\obj\Debug\netcoreapp2.0\Graph.csprojAssemblyReference.cache
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\obj\Debug\netcoreapp2.0\Graph.csproj.CoreCompileInputs.cache
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\obj\Debug\netcoreapp2.0\Graph.AssemblyInfoInputs.cache
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\obj\Debug\netcoreapp2.0\Graph.AssemblyInfo.cs
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\obj\Debug\netcoreapp2.0\Graph.dll
+c:\Users\ankitakhurana\source\repos\DSTest\Graph\obj\Debug\netcoreapp2.0\Graph.pdb

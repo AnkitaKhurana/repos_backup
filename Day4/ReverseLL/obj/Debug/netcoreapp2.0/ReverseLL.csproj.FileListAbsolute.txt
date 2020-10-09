@@ -1,0 +1,10 @@
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\obj\Debug\netcoreapp2.0\ReverseLL.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\obj\Debug\netcoreapp2.0\ReverseLL.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\obj\Debug\netcoreapp2.0\ReverseLL.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\bin\Debug\netcoreapp2.0\ReverseLL.deps.json
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\bin\Debug\netcoreapp2.0\ReverseLL.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\bin\Debug\netcoreapp2.0\ReverseLL.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\bin\Debug\netcoreapp2.0\ReverseLL.dll
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\bin\Debug\netcoreapp2.0\ReverseLL.pdb
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\obj\Debug\netcoreapp2.0\ReverseLL.dll
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLL\obj\Debug\netcoreapp2.0\ReverseLL.pdb

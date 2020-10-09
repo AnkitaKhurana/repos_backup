@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{E7148378-4286-487E-9569-8490C52C3282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainterProblem", "PainterProblem\PainterProblem.csproj", "{5BEAE5CA-BABE-41AE-A51A-45193E5EF52B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemPrices", "ItemPrices\ItemPrices.csproj", "{B8840EFC-ADB2-45C2-94F6-9A1B70304FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7148378-4286-487E-9569-8490C52C3282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7148378-4286-487E-9569-8490C52C3282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7148378-4286-487E-9569-8490C52C3282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7148378-4286-487E-9569-8490C52C3282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEAE5CA-BABE-41AE-A51A-45193E5EF52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEAE5CA-BABE-41AE-A51A-45193E5EF52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEAE5CA-BABE-41AE-A51A-45193E5EF52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEAE5CA-BABE-41AE-A51A-45193E5EF52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8840EFC-ADB2-45C2-94F6-9A1B70304FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8840EFC-ADB2-45C2-94F6-9A1B70304FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8840EFC-ADB2-45C2-94F6-9A1B70304FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8840EFC-ADB2-45C2-94F6-9A1B70304FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D024AD0-B6BA-4A4A-81BC-95C992422005}
+	EndGlobalSection
+EndGlobal

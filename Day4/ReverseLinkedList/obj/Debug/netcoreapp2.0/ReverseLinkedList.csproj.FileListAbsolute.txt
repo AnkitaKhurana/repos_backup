@@ -1,0 +1,10 @@
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.deps.json
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.runtimeconfig.json
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.runtimeconfig.dev.json
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.dll
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\bin\Debug\netcoreapp2.0\ReverseLinkedList.pdb
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.AssemblyInfoInputs.cache
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.AssemblyInfo.cs
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.dll
+C:\Users\ankitakhurana\source\repos\Day4\ReverseLinkedList\obj\Debug\netcoreapp2.0\ReverseLinkedList.pdb
